@@ -1,4 +1,4 @@
-Big Thanks to: https://ozh.github.io/ascii-tables/, converting the Excel sheet to an sexy ASCII TABLE
+Big Thanks to: https://ozh.github.io/ascii-tables/, converting the Excel table to an sexy ASCII table
 +------------------------------+------------+-------------+--------+--------+-------+------------------------+----------------+--------+------------+--------------------------------------+
 |            Name:             | Installed: |  Version:   | Client | Server | HALA: |      Last Change:      |      Type      | Addon? | Below 500K |                Note!                 |
 +------------------------------+------------+-------------+--------+--------+-------+------------------------+----------------+--------+------------+--------------------------------------+
