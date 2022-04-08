@@ -1,5 +1,4 @@
-# exclude everything except directory foo/bar
 /*
 !/config/
 !/1.16.5_Modpack_client.xlsx
-!/1.16.5_Modpack_client.txt
+!/1.16.5_Modpack_client.md
