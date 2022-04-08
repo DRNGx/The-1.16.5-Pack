@@ -1,154 +1,86 @@
 Big Thanks to: https://ozh.github.io/ascii-tables/, converting the Excel table to an sexy ASCII table
-+------------------------------+------------+-------------+--------+--------+-------+------------------------+----------------+--------+------------+--------------------------------------+
-|            Name:             | Installed: |  Version:   | Client | Server | HALA: |      Last Change:      |      Type      | Addon? | Below 500K |                Note!                 |
-+------------------------------+------------+-------------+--------+--------+-------+------------------------+----------------+--------+------------+--------------------------------------+
-| AppleSkin                    | Y          | 2.4.0       |        |        |       | V: 0.0.1 | D: 23.02.22 | Food System    |        |            |                                      |
-| Applied Energistics 2        | Y          | 8.4.7       |        |        |       | V: 0.0.1 | D: 23.02.22 | Storage        |        |            |                                      |
-| AutoRegLib                   | Y          | 49          |        |        |       | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
-| Beyond Earth                 | N          |             |        |        |       | V: 0.0.1 | D: 11.03.22 |                |        |            | Only until Galacticraft is available |
-| Beyond Earth: Giselle Addon  | N          |             |        |        |       | V: 0.0.1 | D: 11.03.22 |                | BE     | Y          |                                      |
-| Biomes O' Plenty             | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Biomes         |        |            |                                      |
-| Blood Magic                  | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Magic          |        |            |                                      |
-| Blueprint                    | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
-| Bookshelf                    | U          | 10.4.31->32 |        |        |       | V: 0.0.1 | D: 07.04.22 | Libery         |        |            |                                      |
-| Botania                      | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Tech/Magic     |        |            |                                      |
-| Cataclysm                    | N          |             |        |        | X     | V: 0.0.1 | D: 23.02.22 | Exploration    |        |            |                                      |
-| Chisel                       | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Decoration     |        |            |                                      |
-| Chisel & Bits                | N          |             |        |        | X     | V: 0.0.1 | D: 23.02.22 | Decoration     |        |            |                                      |
-| Chunky Pregenerator          | N          |             |        | Y      |       | V: 0.0.1 | D: 06.03.22 | Server Util    |        | Y          |                                      |
-| Clumps                       | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Performance    |        |            |                                      |
-| CodeChicken Lib              | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
-| CoFH Core                    | Y          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
-| ConnectedTexturesMod         | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
-| Controlling                  | N          |             | Y      |        |       | V: 0.0.1 | D: 23.02.22 | Gui Upgrade    |        |            |                                      |
-| Cooking for Blockheads       | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Food System    |        |            |                                      |
-| Curios API (Forge)           | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
-| Dark Utilities               | U          | 8.0.11->12  |        |        |       | V: 0.0.1 | D: 07.04.22 | Util           |        |            |                                      |
-| Doggy Talents                | N          |             |        |        |       | V: 0.0.1 | D: 06.03.22 | Util           |        |            |                                      |
-| Electrodynamics              | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Tech           |        | Y          |                                      |
-| Ender Storage                | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Storage        |        |            |                                      |
-| Farmer's Delight             | N          |             |        |        |       | V: 0.0.1 | D: 06.03.22 | Food System    |        |            |                                      |
-| Farmer's Delight Compats     | N          |             |        |        |       | V: 0.0.1 | D: 06.03.22 | Food System    | FD     |            |                                      |
-| ForgeEndertech               | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
-| Furnish                      | N          |             |        |        | X     | V: 0.0.1 | D: 23.02.22 | Decoration     |        | Y          |                                      |
-| Glass Craftery               | N          |             |        |        |       | V: 0.0.1 | D: 06.03.22 | Decoration     |        | Y          |                                      |
-| Growth Poitions              | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Util           |        | Y          |                                      |
-| Immersive Engineering        | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Tech           |        |            |                                      |
-| Industrial Foregoing         | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Tech           |        |            |                                      |
-| Industrial Revolution        | N          |             |        |        | X     | V: 0.0.1 | D: 23.02.22 | Tech           |        |            |                                      |
-| Infinit Dungeons             | N          |             |        |        | X     | V: 0.0.1 | D: 23.02.22 | Exploration    |        |            |                                      |
-| inzhefop's Core              | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Libery         |        | Y          |                                      |
-| JEI                          | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Gui Upgrade    |        |            |                                      |
-| JER                          | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Gui Upgrade    | JEI    |            |                                      |
-| JER Integration              | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Gui Upgrade    | JER    |            |                                      |
-| Large Ore Deposits           | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | World Gen      |        |            |                                      |
-| Magnesium                    | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Performance    |        |            |                                      |
-| Mantle                       | Y          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
-| Microcosm                    | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Complex        |        | Y          |                                      |
-| Modular Powersuits           | N          |             |        |        | X     | V: 0.0.1 | D: 23.02.22 | Tech           |        |            |                                      |
-| Morpheus                     | Y          | 4.2.70      |        |        |       | V: 0.0.1 | D: 23.02.22 | Util           |        |            |                                      |
-| Mouse Tweaker                | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Gui Upgrade    |        |            |                                      |
-| Moving Elevators             | U          | 1.3.5->6    |        |        |       | V: 0.0.1 | D: 07.04.22 | Transportation |        |            |                                      |
-| MrCrayfish Furniture         | Y          | 7.0.0.22    |        |        |       | V: 0.0.1 | D: 23.02.22 | Decoration     |        |            |                                      |
-| Not enough Crashes           | Y          | 4.1.4       |        |        | X     | V: 0.0.1 | D: 23.02.22 | Performance    |        |            |                                      |
-| Nuclear Science              | Y          | 0.4.0.1     |        |        |       | V: 0.0.1 | D: 23.02.22 | Tech           |        | Y          |                                      |
-| Obfuscate                    | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
-| Patchouli                    | Y          | 53.2        |        |        |       | V: 0.0.1 | D: 23.02.22 | Wiki           |        |            |                                      |
-| Polymorph (Forge)            | Y          | 0.40        |        |        | X     | V: 0.0.1 | D: 23.02.22 | Ore Util       | Y      |            |                                      |
-| Quantum Quarry Plus          | Y          | 1.10.3      |        |        |       | V: 0.0.1 | D: 23.02.22 | Tech           |        | Y          |                                      |
-| Quark                        | Y          | 2.4.322     |        |        |       | V: 0.0.1 | D: 23.02.22 | Complex        |        |            |                                      |
-| ReAuth                       | N          |             | Y      |        | X     | V: 0.0.1 | D: 23.02.22 | Util           |        |            |                                      |
-| Runelic                      | Y          | 7.0.3       |        |        |       | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
-| Security Craft               | N          |             |        |        | X     | V: 0.0.1 | D: 23.02.22 | Tech           |        |            |                                      |
-| Sky Villages                 | Y          | 1.0.0       |        |        |       | V: 0.0.1 | D: 23.02.22 | World Gen      |        | Y          |                                      |
-| Soul Shard                   | N          |             |        |        | X     | V: 0.0.1 | D: 23.02.22 | Magic          |        |            |                                      |
-| Storage Drawers              | Y          | 8.5.1       |        |        |       | V: 0.0.1 | D: 23.02.22 | Storage        |        |            |                                      |
-| SuperMartijn642's Config Lib | Y          | 1.0.9       |        |        |       | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
-| SuperMartijn642's Core Lib   | Y          | 1.0.16      |        |        |       | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
-| The Twilight Forest          | Y          | 4.0.870     |        |        |       | V: 0.0.1 | D: 23.02.22 | Exploration    |        |            |                                      |
-| Thermal Cultivation          | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Tech           | TF     |            |                                      |
-| Thermal Expansion            | Y          | 1.4.2.4     |        |        |       | V: 0.0.1 | D: 23.02.22 | Tech           | TF     |            |                                      |
-| Thermal Foundation           | Y          | 1.4.3.10    |        |        |       | V: 0.0.1 | D: 23.02.22 | Tech           |        |            |                                      |
-| Thermal Innovation           | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Tech           | TF     |            |                                      |
-| Thermal Locomotion           | N          |             |        |        |       | V: 0.0.1 | D: 23.02.22 | Tech           | TF     |            |                                      |
-| Tinkers Construct            | Y          | 3.3.4.335   |        |        |       | V: 0.0.1 | D: 23.02.22 | Armor          |        |            |                                      |
-| Titanium                     | Y          | 3.2.8.4.10  |        |        |       | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
-| Ultimate Car Mod             | Y          | 1.0.17      |        |        |       | V: 0.0.1 | D: 23.02.22 | Transportation |        |            |                                      |
-| Undead Expansion             | Y          | 2.0.0       |        |        |       | V: 0.0.1 | D: 23.02.22 | Mobs/magic     |        |            |                                      |
-| Upgrade Aquatic              | Y          | 3.1.2       |        |        |       | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
-| Waystones                    | Y          | 7.6.4       |        |        |       | V: 0.0.1 | D: 06.03.22 | Transportation |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-| V: 0.0.1 | D: 23.02.22       |            |             |        |        |       |                        |                |        |            |                                      |
-+------------------------------+------------+-------------+--------+--------+-------+------------------------+----------------+--------+------------+--------------------------------------+
+
+
++------------------------------+------------+-------------+---------------+---------------+-----------------+------------------------+----------------+--------+------------+--------------------------------------+
+|            Name:X            | Installed: |  Version:   | Client  side: | Server  side: | have a look at: |      Last Change:      |      Type      | Addon? | Below 500K |                Note!                 |
++------------------------------+------------+-------------+---------------+---------------+-----------------+------------------------+----------------+--------+------------+--------------------------------------+
+| AppleSkin                    | Y          | 2.4.0       |               |               |                 | V: 0.0.1 | D: 23.02.22 | Food System    |        |            |                                      |
+| Applied Energistics 2        | Y          | 8.4.7       |               |               |                 | V: 0.0.1 | D: 23.02.22 | Storage        |        |            |                                      |
+| AutoRegLib                   | Y          | 49          |               |               |                 | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
+| Beyond Earth                 | Y          | 5.5e        |               |               |                 | V: 0.0.1 | D: 11.03.22 | Exploration    |        |            | Only until Galacticraft is available |
+| Beyond Earth: Giselle Addon  | Y          | 1.16        |               |               |                 | V: 0.0.1 | D: 11.03.22 | Exploration    | BE     | Y          |                                      |
+| Biomes O' Plenty             | Y          | 13.1.0.447  |               |               |                 | V: 0.0.1 | D: 23.02.22 | Biomes         |        |            |                                      |
+| Blood Magic                  | Y          | 3.1.7.27    |               |               |                 | V: 0.0.1 | D: 23.02.22 | Magic          |        |            |                                      |
+| Blueprint                    | Y          | 3.3.1       |               |               |                 | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
+| Bookshelf                    | U          | 10.4.31->32 |               |               |                 | V: 0.0.1 | D: 07.04.22 | Libery         |        |            |                                      |
+| Botania                      | Y          | 420.2       |               |               |                 | V: 0.0.1 | D: 23.02.22 | Tech/Magic     |        |            |                                      |
+| Cataclysm                    | N          |             |               |               | X               | V: 0.0.1 | D: 23.02.22 | Exploration    |        |            |                                      |
+| Chisel                       | Y          | 2.0.1.4     |               |               |                 | V: 0.0.1 | D: 23.02.22 | Decoration     |        |            |                                      |
+| Chisel & Bits                | N          |             |               |               | X               | V: 0.0.1 | D: 23.02.22 | Decoration     |        |            |                                      |
+| Chunky Pregenerator          | Y          | 1.2.123     |               | Y             |                 | V: 0.0.1 | D: 06.03.22 | Server Util    |        | Y          |                                      |
+| Clumps                       | Y          | 6.0.0.28    |               |               |                 | V: 0.0.1 | D: 23.02.22 | Performance    |        |            |                                      |
+| CodeChicken Lib              | Y          | 4.0.7.445   |               |               |                 | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
+| CoFH Core                    | Y          | 1.4.2.9     |               |               |                 | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
+| ConnectedTexturesMod         | Y          | 1.1.2.6     |               |               |                 | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
+| Controlling                  | Y          | 7.0.0.28    | Y             |               |                 | V: 0.0.1 | D: 23.02.22 | Gui Upgrade    |        |            |                                      |
+| Cooking for Blockheads       | Y          | 9.3.4       |               |               |                 | V: 0.0.1 | D: 23.02.22 | Food System    |        |            |                                      |
+| Curios API (Forge)           | Y          | 4.0.5.3     |               |               |                 | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
+| Dark Utilities               | U          | 8.0.11->12  |               |               |                 | V: 0.0.1 | D: 07.04.22 | Util           |        |            |                                      |
+| Doggy Talents                | Y          | 2.1.15      |               |               |                 | V: 0.0.1 | D: 06.03.22 | Util           |        |            |                                      |
+| Electrodynamics              | Y          | 0.5.0.2     |               |               |                 | V: 0.0.1 | D: 23.02.22 | Tech           |        | Y          |                                      |
+| Ender Storage                | Y          | 2.8.0.170   |               |               |                 | V: 0.0.1 | D: 23.02.22 | Storage        |        |            |                                      |
+| Farmer's Delight             | Y          | 0.5.5       |               |               |                 | V: 0.0.1 | D: 06.03.22 | Food System    |        |            |                                      |
+| Farmer's Delight Compats     | Y          | 1.2         |               |               |                 | V: 0.0.1 | D: 06.03.22 | Food System    | FD     |            |                                      |
+| ForgeEndertech               | Y          | 7.2.2.0     |               |               |                 | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
+| Furnish                      | N          |             |               |               | X               | V: 0.0.1 | D: 23.02.22 | Decoration     |        | Y          |                                      |
+| Glass Craftery               | Y          | 1.0.0       |               |               |                 | V: 0.0.1 | D: 06.03.22 | Decoration     |        | Y          |                                      |
+| Growth Poitions              | Y          | 1.0         |               |               |                 | V: 0.0.1 | D: 23.02.22 | Util           |        | Y          |                                      |
+| Immersive Engineering        | Y          | 5.0.7.143   |               |               |                 | V: 0.0.1 | D: 23.02.22 | Tech           |        |            |                                      |
+| Industrial Foregoing         | Y          | 3.2.14.6.14 |               |               |                 | V: 0.0.1 | D: 23.02.22 | Tech           |        |            |                                      |
+| Industrial Revolution        | N          |             |               |               | X               | V: 0.0.1 | D: 23.02.22 | Tech           |        |            |                                      |
+| Infinit Dungeons             | N          |             |               |               | X               | V: 0.0.1 | D: 23.02.22 | Exploration    |        |            |                                      |
+| inzhefop's Core              | N          |             |               |               |                 | V: 0.0.1 | D: 23.02.22 | Libery         |        | Y          |                                      |
+| JEI                          | Y          | 7.7.1.152   |               |               |                 | V: 0.0.1 | D: 23.02.22 | Gui Upgrade    |        |            |                                      |
+| JER                          | Y          | 0.12.1.133  |               |               |                 | V: 0.0.1 | D: 23.02.22 | Gui Upgrade    | JEI    |            |                                      |
+| JER Integration              | N          |             |               |               |                 | V: 0.0.1 | D: 23.02.22 | Gui Upgrade    | JER    |            |                                      |
+| Large Ore Deposits           | Y          | 4.1.9.2.217 |               |               |                 | V: 0.0.1 | D: 23.02.22 | World Gen      |        |            |                                      |
+| Magnesium                    | Y          | 1.5         |               |               |                 | V: 0.0.1 | D: 23.02.22 | Performance    |        |            |                                      |
+| Mantle                       | Y          | 1.6.157     |               |               |                 | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
+| Micr+A44:K100ocosm           | Y          | 1.5.1       |               |               |                 | V: 0.0.1 | D: 23.02.22 | Complex        |        | Y          |                                      |
+| Modular Powersuits           | N          |             |               |               | X               | V: 0.0.1 | D: 23.02.22 | Tech           |        |            |                                      |
+| Morpheus                     | Y          | 4.2.70      |               |               |                 | V: 0.0.1 | D: 23.02.22 | Util           |        |            |                                      |
+| Mouse Tweaker                | N          |             |               |               |                 | V: 0.0.1 | D: 23.02.22 | Gui Upgrade    |        |            |                                      |
+| Moving Elevators             | U          | 1.3.5->6    |               |               |                 | V: 0.0.1 | D: 07.04.22 | Transportation |        |            |                                      |
+| MrCrayfish Furniture         | Y          | 7.0.0.22    |               |               |                 | V: 0.0.1 | D: 23.02.22 | Decoration     |        |            |                                      |
+| Not enough Crashes           | Y          | 4.1.4       |               |               | X               | V: 0.0.1 | D: 23.02.22 | Performance    |        |            |                                      |
+| Nuclear Science              | Y          | 0.4.0.1     |               |               |                 | V: 0.0.1 | D: 23.02.22 | Tech           |        | Y          |                                      |
+| Obfuscate                    | N          |             |               |               | X               | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
+| Patchouli                    | Y          | 53.2        |               |               |                 | V: 0.0.1 | D: 23.02.22 | Wiki           |        |            |                                      |
+| Polymorph (Forge)            | Y          | 0.40        |               |               | X               | V: 0.0.1 | D: 23.02.22 | Ore Util       | Y      |            |                                      |
+| Quantum Quarry Plus          | Y          | 1.10.3      |               |               |                 | V: 0.0.1 | D: 23.02.22 | Tech           |        | Y          |                                      |
+| Quark                        | Y          | 2.4.322     |               |               |                 | V: 0.0.1 | D: 23.02.22 | Complex        |        |            |                                      |
+| ReAuth                       | N          |             | Y             |               | X               | V: 0.0.1 | D: 23.02.22 | Util           |        |            |                                      |
+| Runelic                      | Y          | 7.0.3       |               |               |                 | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
+| Security Craft               | N          |             |               |               | X               | V: 0.0.1 | D: 23.02.22 | Tech           |        |            |                                      |
+| Sky Villages                 | Y          | 1.0.0       |               |               |                 | V: 0.0.1 | D: 23.02.22 | World Gen      |        | Y          |                                      |
+| Soul Shard                   | N          |             |               |               | X               | V: 0.0.1 | D: 23.02.22 | Magic          |        |            |                                      |
+| Storage Drawers              | Y          | 8.5.1       |               |               |                 | V: 0.0.1 | D: 23.02.22 | Storage        |        |            |                                      |
+| SuperMartijn642's Config Lib | Y          | 1.0.9       |               |               |                 | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
+| SuperMartijn642's Core Lib   | Y          | 1.0.16      |               |               |                 | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
+| The Twilight Forest          | Y          | 4.0.870     |               |               |                 | V: 0.0.1 | D: 23.02.22 | Exploration    |        |            |                                      |
+| Thermal Cultivation          | N          |             |               |               |                 | V: 0.0.1 | D: 23.02.22 | Tech           | TF     |            |                                      |
+| Thermal Expansion            | Y          | 1.4.2.4     |               |               |                 | V: 0.0.1 | D: 23.02.22 | Tech           | TF     |            |                                      |
+| Thermal Foundation           | Y          | 1.4.3.10    |               |               |                 | V: 0.0.1 | D: 23.02.22 | Tech           |        |            |                                      |
+| Thermal Innovation           | N          |             |               |               |                 | V: 0.0.1 | D: 23.02.22 | Tech           | TF     |            |                                      |
+| Thermal Locomotion           | N          |             |               |               |                 | V: 0.0.1 | D: 23.02.22 | Tech           | TF     |            |                                      |
+| Tinkers Construct            | Y          | 3.3.4.335   |               |               |                 | V: 0.0.1 | D: 23.02.22 | Armor          |        |            |                                      |
+| Titanium                     | Y          | 3.2.8.4.10  |               |               |                 | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
+| Ultimate Car Mod             | Y          | 1.0.17      |               |               |                 | V: 0.0.1 | D: 23.02.22 | Transportation |        |            |                                      |
+| Undead Expansion             | Y          | 2.0.0       |               |               |                 | V: 0.0.1 | D: 23.02.22 | Mobs/magic     |        |            |                                      |
+| Upgrade Aquatic              | Y          | 3.1.2       |               |               |                 | V: 0.0.1 | D: 23.02.22 | Libery         |        |            |                                      |
+| Waystones                    | Y          | 7.6.4       |               |               |                 | V: 0.0.1 | D: 06.03.22 | Transportation |        |            |                                      |
++------------------------------+------------+-------------+---------------+---------------+-----------------+------------------------+----------------+--------+------------+--------------------------------------+
+
 
 
 
